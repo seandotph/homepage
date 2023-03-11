@@ -1,0 +1,15 @@
+.git
+node_modules
+.github
+config
+cypress
+.DS_Store
+.eslintignore
+.eslintrc.js
+.gitignore
+.prettierignore
+.prettierrc
+Dockerfile
+.dockerignore
+*.md
+next-env.d.ts
